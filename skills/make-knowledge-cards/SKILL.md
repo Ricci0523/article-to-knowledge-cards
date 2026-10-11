@@ -2,6 +2,8 @@
 name: make-knowledge-cards
 description: Turn a pasted article or a local Markdown/TXT file into 5-8 knowledge cards, where each card covers exactly one knowledge point with a title, the core takeaway, a plain-language explanation, and an example or self-test question. Use this skill whenever the user pastes an article, essay, transcript, lecture notes, or documentation and asks for knowledge cards, study cards, revision cards, flashcards, 知识卡片, 学习卡片, 复习卡片, 读书笔记, or asks to extract the key points, distill, or summarize a text into reviewable study material. Also use it when the user points at a .md or .txt file and asks what the important ideas in it are. Do not use it to fetch web pages, read PDFs or other binary documents, export Anki decks, or build a GUI.
 license: MIT
+metadata:
+  version: 0.1.0
 ---
 
 # Make Knowledge Cards
